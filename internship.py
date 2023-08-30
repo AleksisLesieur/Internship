@@ -24,6 +24,4 @@ def find_index_of_darkest_street_light(road_length, non_working_street_lights):
 
     return lowest_intensity_index
 
-
-
-print(find_index_of_darkest_street_light(140, [4,6]))
+print(find_index_of_darkest_street_light(200, [4,5,6]))
